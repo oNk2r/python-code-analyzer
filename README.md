@@ -15,7 +15,7 @@ A beginner-friendly Python tool to analyze `.py` files.
 ### Usage
 
 ```bash
-python analyzer.py test/sample_code.py
+python analyzer.py sample_code.py
 ```
 ### Sample Output 
 ```
