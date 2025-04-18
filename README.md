@@ -16,7 +16,9 @@ A beginner-friendly Python tool to analyze `.py` files.
 
 ```bash
 python analyzer.py test/sample_code.py
-
+```
+### Sample Output 
+```
 Analyzing: sample_code.py
 Total lines: 12
 Comment lines: 2
